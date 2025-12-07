@@ -1,6 +1,6 @@
 # 豆包手机助手可用APP列表
 
-本repo记录了nubia M153豆包手机助手可用的App列表，欢迎通过pr更新
+本repo记录了[nubia M153豆包手机助手](https://o.doubao.com/)可用的App列表，欢迎通过pr更新
 
 ## 应用清单
 
